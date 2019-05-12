@@ -14,3 +14,5 @@ https://github.com/adafruit/Adafruit_Sensor
 
 到 C:\Program Files (x86)\Arduino\libraries 目录
 
+也可以直接解压缩本目录下的lib.7z 到 C:\Program Files (x86)\Arduino\libraries 目录。
+
